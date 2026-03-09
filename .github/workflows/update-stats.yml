@@ -1,0 +1,37 @@
+name: Update Dazhbog Stats
+
+on:
+  schedule:
+    # Every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch:   # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate SVG
+        run: python3 generate.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "dazhbog-bot"
+          git config user.email "dazhbog-bot@users.noreply.github.com"
+          git add dazhbog-stats.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "update stats $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
