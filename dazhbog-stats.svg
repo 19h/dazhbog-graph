@@ -67,7 +67,7 @@
 <rect x="34" y="238" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="50" y="258" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">QUERIES PROCESSED</text>
 <text x="500" y="258" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">QRY</text>
-<text x="50" y="310" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">26,850,660</text>
+<text x="50" y="310" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">26,852,693</text>
 <text x="50" y="342" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Total Lookups</text>
 <rect x="470" y="334" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="476" y="328" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -78,7 +78,7 @@
 <rect x="528" y="238" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="544" y="258" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">UPSTREAM RELAY</text>
 <text x="994" y="258" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">UPS</text>
-<text x="544" y="310" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">5,354</text>
+<text x="544" y="310" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">5,355</text>
 <text x="544" y="342" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Lumina Requests</text>
 <rect x="964" y="334" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="970" y="328" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -115,7 +115,7 @@
 <rect x="405" y="422" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="421" y="442" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">PULL OPERATIONS</text>
 <text x="748" y="442" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">PUL</text>
-<text x="421" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">9,410,533</text>
+<text x="421" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">9,410,691</text>
 <text x="421" y="526" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Metadata Syncs</text>
 <rect x="718" y="518" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="724" y="512" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -137,7 +137,7 @@
 <rect x="1147" y="422" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="1163" y="442" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">SCORING BATCHES</text>
 <text x="1490" y="442" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">SCR</text>
-<text x="1163" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">10,715</text>
+<text x="1163" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">10,716</text>
 <text x="1163" y="526" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Version Selection</text>
 <rect x="1460" y="518" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="1466" y="512" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -155,5 +155,5 @@
 <text x="1140" y="620" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#e8ecf2" text-anchor="middle">27,186,488</text>
 <line x1="1120" y1="630" x2="1160" y2="630" stroke="#2a2f3a" stroke-width="2"/>
 <text x="1140" y="646" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" fill="#4ade80" text-anchor="middle">+0.00/s</text>
-<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-10 08:24:54 UTC · Uptime 52d 21h 33m</text>
+<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-10 08:44:36 UTC · Uptime 52d 21h 53m</text>
 </svg>
