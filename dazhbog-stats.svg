@@ -19,7 +19,7 @@
 <rect x="34" y="54" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="50" y="74" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">INDEXED FUNCTIONS</text>
 <text x="377" y="74" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">IDX</text>
-<text x="50" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">9,820,130</text>
+<text x="50" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">9,820,157</text>
 <text x="50" y="158" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Unique Keys</text>
 <rect x="347" y="150" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="353" y="144" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -147,7 +147,7 @@
 <rect x="30" y="568" width="1480" height="90" rx="4" fill="#1e2129" stroke="#2a2f3a" stroke-width="1"/>
 <line x1="770" y1="578" x2="770" y2="648" stroke="#2a2f3a" stroke-width="1"/>
 <text x="400" y="592" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#5e6878" text-anchor="middle">TOTAL RECORDS</text>
-<text x="400" y="620" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#e8ecf2" text-anchor="middle">12,828,012</text>
+<text x="400" y="620" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#e8ecf2" text-anchor="middle">12,828,054</text>
 <line x1="380" y1="630" x2="420" y2="630" stroke="#2a2f3a" stroke-width="2"/>
 <text x="400" y="646" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" fill="#4ade80" text-anchor="middle">+0.00/s</text>
 <line x1="1510" y1="578" x2="1510" y2="648" stroke="#2a2f3a" stroke-width="1"/>
@@ -155,5 +155,5 @@
 <text x="1140" y="620" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#e8ecf2" text-anchor="middle">34,314,723</text>
 <line x1="1120" y1="630" x2="1160" y2="630" stroke="#2a2f3a" stroke-width="2"/>
 <text x="1140" y="646" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" fill="#4ade80" text-anchor="middle">+0.00/s</text>
-<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-16 18:17:12 UTC · Uptime 59d 7h 25m</text>
+<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-16 18:47:00 UTC · Uptime 59d 7h 55m</text>
 </svg>
