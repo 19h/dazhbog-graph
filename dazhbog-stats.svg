@@ -19,7 +19,7 @@
 <rect x="34" y="54" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="50" y="74" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">INDEXED FUNCTIONS</text>
 <text x="377" y="74" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">IDX</text>
-<text x="50" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">11,205,986</text>
+<text x="50" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">11,206,106</text>
 <text x="50" y="158" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Unique Keys</text>
 <rect x="347" y="150" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="353" y="144" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -41,7 +41,7 @@
 <rect x="776" y="54" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="792" y="74" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">SEARCH DOCS</text>
 <text x="1119" y="74" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">DOC</text>
-<text x="792" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">11,205,834</text>
+<text x="792" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">11,206,106</text>
 <text x="792" y="158" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Searchable</text>
 <rect x="1089" y="150" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="1095" y="144" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -104,7 +104,7 @@
 <rect x="34" y="422" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="50" y="442" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">NEW FUNCTIONS</text>
 <text x="377" y="442" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">NEW</text>
-<text x="50" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">4,660,916</text>
+<text x="50" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">4,661,188</text>
 <text x="50" y="526" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Unique Indexed</text>
 <rect x="347" y="518" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="353" y="512" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -126,7 +126,7 @@
 <rect x="776" y="422" width="3" height="114" rx="1.5" fill="#4ade80" opacity="0.6"/>
 <text x="792" y="442" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8b95a5">PUSH OPERATIONS</text>
 <text x="1119" y="442" font-family="'JetBrains Mono','SF Mono',monospace" font-size="10" fill="#5e6878" text-anchor="end" letter-spacing="1">PSH</text>
-<text x="792" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">5,312,055</text>
+<text x="792" y="494" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="40" font-weight="700" fill="#e8ecf2">5,312,444</text>
 <text x="792" y="526" font-family="'JetBrains Mono','SF Mono',monospace" font-size="11" fill="#5e6878">Submissions</text>
 <rect x="1089" y="518" width="4" height="8" rx="1" fill="#3ec96a" opacity="0.7"/>
 <rect x="1095" y="512" width="4" height="14" rx="1" fill="#3ec96a" opacity="0.7"/>
@@ -155,5 +155,5 @@
 <text x="1140" y="620" font-family="'JetBrains Mono','SF Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#e8ecf2" text-anchor="middle">47,322,875</text>
 <line x1="1120" y1="630" x2="1160" y2="630" stroke="#2a2f3a" stroke-width="2"/>
 <text x="1140" y="646" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" fill="#4ade80" text-anchor="middle">+0.00/s</text>
-<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-20 19:30:33 UTC · Uptime 63d 8h 39m</text>
+<text x="1520" y="678" font-size="9" fill="#5e6878" text-anchor="end" opacity="0.6">Updated 2026-03-20 19:53:21 UTC · Uptime 63d 9h 1m</text>
 </svg>
